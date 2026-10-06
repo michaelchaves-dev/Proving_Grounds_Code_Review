@@ -29,3 +29,8 @@ Prints ledger rows whose `repo` is empty or `none`. That list is the bot duty in
 ## 1% rule
 
 One slice per change. Proof in the PR (script output or test). No comment-as-fix. No second OS.
+
+<!-- SAS-IP-FOOTER-v1 -->
+---
+**Subtract Architect Studios™**  
+Copyright © 2026 Michael F. Chaves. All rights reserved in original Subtract Architect Studios materials except as expressly licensed. See [IP_NOTICE.md](./IP_NOTICE.md). Existing open-source and third-party licenses remain controlling for materials they cover.
